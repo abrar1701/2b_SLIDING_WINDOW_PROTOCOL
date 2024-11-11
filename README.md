@@ -1,5 +1,7 @@
-# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# EX : 2b
+# IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
+To write a python program for sliding window protocol.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
